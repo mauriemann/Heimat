@@ -123,6 +123,8 @@ Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister
 | 22.01.2025| Sasha Marianna Salzmann: Sichtbar. In: Aydemir/Yaghoobifarah (Hg. 2019): Eure Heimat ist unser Albtraum. Berlin. S. 13-26. Fatma Aydemir: Arbeit. In: Aydemir/Yaghoobifarah (Hg. 2019): Eure Heimat ist unser Albtraum. Berlin. S. 27-37.| Referat: |
 | 29.01.2025| Navid Kermani: Es kann noch schrecklich viel passieren. Rede zur Verleihung des Thomas Mann Preises 2024. | Referat: |
 | 5.2.2025 | **Abschlussdiskussion** |  |
+
+
 **unterrichtsfrei: 23.12.2024-04.01.2025**
 
 
@@ -192,3 +194,16 @@ Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister
 *	[Bundeszentrale für politische Bildung: „Was ist Heimat? – Definitionen](https://https://www.bpb.de/lernen/angebote/grafstat/projekt-integration/134586/info-03-05-was-ist-heimat-definitionen/)
 *	Ute Vorkoeper: Heimat. Eine Einführung, in: Zeit-online vom 01. 12. 2005 online. 
 
+
+## 2. Sitzung am 30.10.2024
+
+**Ina-Maria Greverus** (1929-2017)
+
+
+![alt-text](Ina-Maria_Greverus.jpg)
+
+
+* Studium der Germanistik, Skandinavistik, Kunstgeschichte in Marburg und Uppsala
+* Promotion in Marburg 1956
+* Habilitation 1970 in Gießen: *Der territoriale Mensch. Ein literaturanthropologischer Versuch zum Heimatphänomen.* Frankfurt am Main 1972.
+* 1974 Gründung des Instituts für Kulturanthropologie und Europäische Ethnologie an der Universität Frankfurt am Main.
