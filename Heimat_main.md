@@ -111,17 +111,17 @@ Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister
 | **23.10.2024** | **Eröffnung, Organisatorisches** | **Referat** |
 |------------|------------------------------|---------|
 | 30.10.2024 | Ina-Maria Greverus: Auf der Suche nach Heimat. München: Beck 1979. S. 7-34. | kein Referat |
-| 6.11.2024 | **Provinz als Heimat:** Martin Heidegger: Schöpferische Landschaft. Warum bleiben wir in der Provinz. GA 13. S. 9-13. // Ders.: Bauen. Wohnen. Denken. GA 7. 145-164 // Dazu: Paul Parin: Heimat, eine Plombe. In: Die Zeit 23.12.1994.| Referat: |
-| 13.11.2024 | **Heimat als Geborgenheit:** Otto Friedrich Bollnow: Die neue Geborgenheit. Stuttgart 1955. S. 168-202. | Referat: |
-| 20.11.2024 | **Heimat als Utopie:** Ernst Bloch: Das Prinzip Hoffnung. Frankfurt/Main: Suhrkamp. S. 1622-1628. // Bernhard Schlink: Heimat als Utopie. Frankfurt/Main 2000| Referat: |
-| 27.11.2024 | **Heimatlosigkeit:** Vilem Flusser: Bodenlos. Eine philosophische Autobiographie. Düsseldorf: Bollmann. S. 9-30.| Referat: |
-| 4.12.2024 | **Heimatlosigkeit:** Vilém Flusser: Wohnung beziehen in der Heimatlosigkeit. In: ders.: Von der Freiheit des Migranten. Hamburg:eva 2013. S. 15-30.| Referat: |
-| 11.12.2024 |**Heimkehr:** Adorno/Horkheimer: Dialektik der Aufklärung. Exkurs 1 (Odysseus oder der Mythos der Aufklärung) | Referat: |
-| 18.12.2024| Barbara Cassin: Nostalgie | Referat: |
-| 8.01.2025 | Barbara Cassin: Nostalgie | Referat: |
-| 15.01.2025| Homi K. Bhabha: Über kulturelle Hybridität. Wien 2012. (Auszug) | Referat: |
-| 22.01.2025 |Naika Foroutan: Heimat. Erde. Migration. Kursbuch 198: Heimatt. Hamburg 2019. // Navid Kermani: Es kann noch schrecklich viel passieren. Rede zur Verleihung des Thomas Mann Preises 2024.| Referat: |
-| 29.01.2025| Sasha Marianna Salzmann: Sichtbar. In: Aydemir/Yaghoobifarah (Hg. 2019): Eure Heimat ist unser Albtraum. Berlin. S. 13-26. // Fatma Aydemir: Arbeit. In: Aydemir/Yaghoobifarah (Hg. 2019): Eure Heimat ist unser Albtraum. Berlin. S. 27-37.| Referat: |
+| 6.11.2024 | **Provinz als Heimat:** Martin Heidegger: Schöpferische Landschaft. Warum bleiben wir in der Provinz. GA 13. S. 9-13. // Ders.: Bauen. Wohnen. Denken. GA 7. 145-164 // Dazu: Paul Parin: Heimat, eine Plombe. In: Die Zeit 23.12.1994.| Referat: Maxim Smirnow |
+| 13.11.2024 | **Heimat als Geborgenheit:** Otto Friedrich Bollnow: Die neue Geborgenheit. Stuttgart 1955. S. 168-202. | Referat: Emelie Henßge |
+| 20.11.2024 | **Heimat als Utopie:** Ernst Bloch: Das Prinzip Hoffnung. Frankfurt/Main: Suhrkamp. S. 1622-1628. // Bernhard Schlink: Heimat als Utopie. Frankfurt/Main 2000| Referat: Zoé Limitsou, Larissa Ludewig |
+| 27.11.2024 | **Heimatlosigkeit:** Vilem Flusser: Bodenlos. Eine philosophische Autobiographie. Düsseldorf: Bollmann. S. 9-30.| Referat: Yannick Tummer, Leonida Nezaj |
+| 4.12.2024 | **Heimatlosigkeit:** Vilém Flusser: Wohnung beziehen in der Heimatlosigkeit. In: ders.: Von der Freiheit des Migranten. Hamburg:eva 2013. S. 15-30.| Referat: Lucia Kugel,  Bendix Sörensen |
+| 11.12.2024 |**Heimkehr:** Adorno/Horkheimer: Dialektik der Aufklärung. Exkurs 1 (Odysseus oder der Mythos der Aufklärung) | Referat: Mads Rebber, Mads Göttsche |
+| 18.12.2024| Barbara Cassin: Nostalgie | Referat: Julius Henning, Daniel Klösel |
+| 8.01.2025 | Barbara Cassin: Nostalgie | Referat: Marcel Krüger |
+| 15.01.2025| Homi K. Bhabha: Über kulturelle Hybridität. Wien 2012. (Auszug) | Referat: Alexander Radler, Freya Frerichs |
+| 22.01.2025 |Naika Foroutan: Heimat. Erde. Migration. Kursbuch 198: Heimatt. Hamburg 2019. // Navid Kermani: Es kann noch schrecklich viel passieren. Rede zur Verleihung des Thomas Mann Preises 2024.| Referat: Indjit-Kaur Randhawa, Ayris Vurmaz |
+| 29.01.2025| Sasha Marianna Salzmann: Sichtbar. In: Aydemir/Yaghoobifarah (Hg. 2019): Eure Heimat ist unser Albtraum. Berlin. S. 13-26. // Fatma Aydemir: Arbeit. In: Aydemir/Yaghoobifarah (Hg. 2019): Eure Heimat ist unser Albtraum. Berlin. S. 27-37.| Referat: Melissa Cibukkiran, Sinem Ilgin |
 | 5.2.2025 | **Abschlussdiskussion** |  |
 
 
