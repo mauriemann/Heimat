@@ -252,3 +252,10 @@ pfade im Hochmoor,
 Feuchtes,
 viel.
 
+
+## 5. Sitzung 20.11.2024
+
+Bloch und Adorno über Möglichkeiten der Utopie heute
+
+https://www.youtube.com/watch?v=_w5E2-ABxyQ
+
