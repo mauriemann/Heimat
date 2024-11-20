@@ -112,11 +112,11 @@ Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister
 |------------|------------------------------|---------|
 | 30.10.2024 | Ina-Maria Greverus: Auf der Suche nach Heimat. München: Beck 1979. S. 7-34. | kein Referat |
 | 6.11.2024 | **Provinz als Heimat:** Martin Heidegger: Schöpferische Landschaft. Warum bleiben wir in der Provinz. GA 13. S. 9-13. // Ders.: Bauen. Wohnen. Denken. GA 7. 145-164 // Dazu: Paul Parin: Heimat, eine Plombe. In: Die Zeit 23.12.1994.| Referat: Maxim Smirnow |
-| 13.11.2024 | **Heimat als Geborgenheit:** Otto Friedrich Bollnow: Die neue Geborgenheit. Stuttgart 1955. S. 168-202. | Referat: Emelie Henßge |
+| 13.11.2024 | **Heimat als Geborgenheit:** Otto Friedrich Bollnow: Die neue Geborgenheit. Stuttgart 1955. S. 168-202. | Referat: Amely Henßge |
 | 20.11.2024 | **Heimat als Utopie:** Ernst Bloch: Das Prinzip Hoffnung. Frankfurt/Main: Suhrkamp. S. 1622-1628. // Bernhard Schlink: Heimat als Utopie. Frankfurt/Main 2000| Referat: Zoé Limitsou, Larissa Ludewig |
 | 27.11.2024 | **Heimatlosigkeit:** Vilem Flusser: Bodenlos. Eine philosophische Autobiographie. Düsseldorf: Bollmann. S. 9-30.| Referat: Yannick Tummer, Leonida Nezaj |
 | 4.12.2024 | **Heimatlosigkeit:** Vilém Flusser: Wohnung beziehen in der Heimatlosigkeit. In: ders.: Von der Freiheit des Migranten. Hamburg:eva 2013. S. 15-30.| Referat: Lucia Kugel,  Bendix Sörensen |
-| 11.12.2024 |**Heimkehr:** Adorno/Horkheimer: Dialektik der Aufklärung. Exkurs 1 (Odysseus oder der Mythos der Aufklärung) | Referat: Mads Rebber, Mads Göttsche |
+| 11.12.2024 |**Heimkehr:** Adorno/Horkheimer: Dialektik der Aufklärung. Exkurs 1 (Odysseus oder der Mythos der Aufklärung) | Referat: Mads Rebber, Mats Göttsche |
 | 18.12.2024| Barbara Cassin: Nostalgie | Referat: Julius Henning, Daniel Klösel |
 | 8.01.2025 | Barbara Cassin: Nostalgie | Referat: Marcel Krüger |
 | 15.01.2025| Homi K. Bhabha: Über kulturelle Hybridität. Wien 2012. (Auszug) | Referat: Alexander Radler, Freya Frerichs |
@@ -208,4 +208,47 @@ Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister
 * Habilitation 1970 in Gießen: *Der territoriale Mensch. Ein literaturanthropologischer Versuch zum Heimatphänomen.* Frankfurt am Main 1972.
 * 1974 Gründung des Instituts für Kulturanthropologie und Europäische Ethnologie an der Universität Frankfurt am Main.
 * 1979 Aufsatzsammlung *Auf der Suche nach Heimat*
+
+
+## 3. Sitzung am 6.11.2024
+
+### Todtnauberg
+
+**PAUL CELAN**
+
+Todtnauberg
+
+Arnika, Augentrost, der
+Trunk aus dem Brunnen mit dem
+Sternwürfel drauf,
+
+in der
+Hütte,
+
+die in das Buch
+– wessen Namen nahms auf
+vor dem meinen? –,
+die in dies Buch
+geschriebene Zeile von
+einer Hoffnung, heute,
+auf eines Denkenden
+kommendes
+Wort
+im Herzen,
+
+Waldwasen, uneingeebnet,
+Orchis und Orchis, einzeln,
+
+Krudes, später, im Fahren,
+deutlich,
+
+der uns fährt, der Mensch,
+der’s mit anhört,
+
+die halb-
+beschrittenen Knüppel-
+pfade im Hochmoor,
+
+Feuchtes,
+viel.
 
