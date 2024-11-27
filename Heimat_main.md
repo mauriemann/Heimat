@@ -259,3 +259,7 @@ Bloch und Adorno über Möglichkeiten der Utopie heute
 
 https://www.youtube.com/watch?v=_w5E2-ABxyQ
 
+## 6. Sitzung 27.11.2024
+
+![alt-text](1041px-Vilém_Flusser_an_der_FH_Bielefeld,_1984.jpg)
+
