@@ -115,10 +115,10 @@ Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister
 | 13.11.2024 | **Heimat als Geborgenheit:** Otto Friedrich Bollnow: Die neue Geborgenheit. Stuttgart 1955. S. 168-202. | Referat: Amely Henßge |
 | 20.11.2024 | **Heimat als Utopie:** Ernst Bloch: Das Prinzip Hoffnung. Frankfurt/Main: Suhrkamp. S. 1622-1628. // Bernhard Schlink: Heimat als Utopie. Frankfurt/Main 2000| Referat: Zoé Limitsou, Larissa Ludewig |
 | 27.11.2024 | **Heimatlosigkeit:** Vilem Flusser: Bodenlos. Eine philosophische Autobiographie. Düsseldorf: Bollmann. S. 9-30.| Referat: Yannick Tummer, Leonida Nezaj |
-| 4.12.2024 | **Heimatlosigkeit:** Vilém Flusser: Wohnung beziehen in der Heimatlosigkeit. In: ders.: Von der Freiheit des Migranten. Hamburg:eva 2013. S. 15-30.| Referat: Lucia Kugel,  Bendix Sörensen |
-| 11.12.2024 |**Heimkehr:** Adorno/Horkheimer: Dialektik der Aufklärung. Exkurs 1 (Odysseus oder der Mythos der Aufklärung) | Referat: Mads Rebber, Mats Göttsche |
-| 18.12.2024| Barbara Cassin: Nostalgie | Referat: Julius Henning, Daniel Klösel |
-| 8.01.2025 | Barbara Cassin: Nostalgie | Referat: Marcel Krüger |
+| 4.12.2024 | **Sitzung entfallen** | |
+| 11.12.2024 | **Heimatlosigkeit:** Vilém Flusser: Wohnung beziehen in der Heimatlosigkeit. In: ders.: Von der Freiheit des Migranten. Hamburg:eva 2013. S. 15-30.| Referat: Lucia Kugel,  Bendix Sörensen |
+| 18.12.2024| **Heimkehr:** Adorno/Horkheimer: Dialektik der Aufklärung. Exkurs 1 (Odysseus oder der Mythos der Aufklärung) | Referat: Mads Rebber, Mats Göttsche |
+| 8.01.2025 | **14:00-16:00** Barbara Cassin: Nostalgie |Referat 1: Julius Henning, Daniel Klösel; Referat 2: Marcel Krüger, Fabian Reichardt |
 | 15.01.2025| Homi K. Bhabha: Über kulturelle Hybridität. Wien 2012. (Auszug) | Referat: Alexander Radler, Freya Frerichs |
 | 22.01.2025 |Naika Foroutan: Heimat. Erde. Migration. Kursbuch 198: Heimatt. Hamburg 2019. // Navid Kermani: Es kann noch schrecklich viel passieren. Rede zur Verleihung des Thomas Mann Preises 2024.| Referat: Indjit-Kaur Randhawa, Ayris Vurmaz |
 | 29.01.2025| Sasha Marianna Salzmann: Sichtbar. In: Aydemir/Yaghoobifarah (Hg. 2019): Eure Heimat ist unser Albtraum. Berlin. S. 13-26. // Fatma Aydemir: Arbeit. In: Aydemir/Yaghoobifarah (Hg. 2019): Eure Heimat ist unser Albtraum. Berlin. S. 27-37.| Referat: Melissa Cibukkiran, Sinem Ilgin |
@@ -130,7 +130,7 @@ Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister
 
 ## 1. Sitzung am 23. Oktober 2024
 
-**Literaturzum Thema (Auswahl)**
+**Literatur zum Thema (Auswahl)**
 
 * Hannah Arendt, Wir Flüchtlinge, In: Ders.: Zur Zeit. Politische Essays, hrsg. v. Marie Luise Knott, aus dem Amerikanischen v. Eike Geisel, Berlin 1986
 * Bernhard Schlink, Heimat als Utopie, Frankfurt a.M. 1999.
@@ -142,7 +142,7 @@ Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister
 * Jean Améry, Wieviel Heimat braucht der Mensch?, in: ders. Schuld und Sühne, 13. Aufl., Stuttgart 2023.
 * Ernst Bloch, Das Prinzip Hoffnung. In 5 Teilen. Frankfurt am Main 1985.
 * Otto Friedrich Bollnow, Mensch und Raum, 7. Aufl. Stuttgart/Berlin/Köln 1977.
-* Wilfried von Bredow/Hans-Friedrich: FoltinZwiespältige Zufluchten. Zur Renaissance des Heimatgefühls. Berlin/Bonn 1981.
+* Wilfried von Bredow/Hans-Friedrich Foltin: Zwiespältige Zufluchten. Zur Renaissance des Heimatgefühls. Berlin/Bonn 1981.
 * Martin Buber, Ich und Du. 13. Aufl. Gerlingen 1997.
 * Bundeszentrale für politische Bildung (Hrsg.): Heimat. Analysen, Themen, Perspektiven. Schriftenreihe Bd. 294/1. Gesamtkonzeption Cremer, Willi und Klein, Ansgar. Bonn 1990.
 * Karlfried von Dürckheim, Untersuchungen zum gelebten Raum, in: Neue Psych. Studien Bd. 6,H. 4, München 1932, 381 t80.
