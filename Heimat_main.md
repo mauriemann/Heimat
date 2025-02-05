@@ -104,6 +104,10 @@ Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister
 [^4]: Vgl. Rosenberg, Jay F.: *Philosophieren. Ein Handbuch für Anfänger*. Frankfurt a. M. 2009. S.81.
 
 
+## Hinweise zum Verfassen einer Hausarbeit
+
+[Ausführliche Hinweise hier](https://liascript.github.io/course/?https://raw.githubusercontent.com/Philosophie-Lehre-Moritz-Riemann/Hausarbeit/refs/heads/main/Hausarbeit_main.md)
+
 
   
 ## Semesterplan
@@ -119,7 +123,7 @@ Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister
 | 11.12.2024 | **Heimatlosigkeit:** Vilém Flusser: Wohnung beziehen in der Heimatlosigkeit. In: ders.: Von der Freiheit des Migranten. Hamburg:eva 2013. S. 15-30.| Referat: Lucia Kugel,  Bendix Sörensen |
 | 18.12.2024| **Heimkehr:** Adorno/Horkheimer: Dialektik der Aufklärung. Exkurs 1 (Odysseus oder der Mythos der Aufklärung) | Referat: Mads Rebber, Mats Göttsche |
 | 8.01.2025 | **14:00-16:00** Barbara Cassin: Nostalgie |Referat 1: Julius Henning, Daniel Klösel; Referat 2: Marcel Krüger, Fabian Reichardt |
-| 15.01.2025| Homi K. Bhabha: Über kulturelle Hybridität. Wien 2012. (Auszug) | Referat: Alexander Radler, Freya Frerichs |
+| 15.01.2025| Homi K. Bhabha: Zeit, Narrative und die Ränder der modernen Nation | Referat: Alexander Radler, Freya Frerichs |
 | 22.01.2025 |Naika Foroutan: Heimat. Erde. Migration. Kursbuch 198: Heimatt. Hamburg 2019. // Navid Kermani: Es kann noch schrecklich viel passieren. Rede zur Verleihung des Thomas Mann Preises 2024.| Referat: Indjit-Kaur Randhawa, Ayris Vurmaz |
 | 29.01.2025| Sasha Marianna Salzmann: Sichtbar. In: Aydemir/Yaghoobifarah (Hg. 2019): Eure Heimat ist unser Albtraum. Berlin. S. 13-26. // Fatma Aydemir: Arbeit. In: Aydemir/Yaghoobifarah (Hg. 2019): Eure Heimat ist unser Albtraum. Berlin. S. 27-37.| Referat: Melissa Cibukkiran, Sinem Ilgin |
 | 5.2.2025 | **Abschlussdiskussion** |  |
@@ -263,3 +267,22 @@ https://www.youtube.com/watch?v=_w5E2-ABxyQ
 
 ![alt-text](1041px-Vilém_Flusser_an_der_FH_Bielefeld,_1984.jpg)
 
+## 8. Sitzung am 18.12.2024
+
+**Dialektik der Aufklärung, Exkurs I: Odysseus oder der Mythos der Aufklärung**
+
+[Adorno und seine Heimat Amorbach](https://www.deutschlandfunkkultur.de/zum-50-todestag-des-philosophen-wo-adorno-heimat-fuehlte-100.html)
+
+## 9. Sitzung am 8.1.2025
+
+Barbara Cassin: Nostalgie
+
+## 10. Sitzung am 15.1.2025
+
+Homi K. Bhabha: DissemiNation: Zeit, Narrative und die Ränder der modernen Nation 
+
+### Seminarevaluation
+
+https://studfeedback.uni-kiel.de/evasys/online.php?pswd=X9589
+
+![QR-Code](QRCode_X9589.png)
